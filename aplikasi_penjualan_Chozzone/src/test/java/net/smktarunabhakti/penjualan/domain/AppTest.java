@@ -1,4 +1,4 @@
-package net.smktarunabhakti;
+package net.smktarunabhakti.penjualan.domain;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
