@@ -20,7 +20,7 @@ public class penjualanDetail {
 	private String uid;
 
 	@ManyToOne
-	private penjualan header;
+	 private penjualan header;
 	
 	@ManyToOne
 	private barang barang;
